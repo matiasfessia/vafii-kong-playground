@@ -123,7 +123,6 @@ $ openssl x509 -pubkey -noout -in key.pem > pubkey.pem
 ```
 
 ### Setup the JWT auth fonr the consumer
-sss
 
 Method: POST
 URL: http://localhost:8001/consumers/demo/jwt
